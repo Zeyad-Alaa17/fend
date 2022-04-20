@@ -1,13 +1,19 @@
-# Landing Page Project
+<!-- Add banner here -->
 
-## Table of Contents
+# Landing Page
 
-* [Instructions](#instructions)
+<!-- Add buttons here -->
 
-## Instructions
+<!-- Describe your project in brief -->
+A sample landing page to be submitted as the first project of professional web development course from udemy & egFWD
 
-The starter project has some HTML and CSS styling to display a static version of the Landing Page project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
 
-To get started, open `js/app.js` and start building out the app's functionality
+# Demo-Preview
 
-For specific, detailed instructions, look at the project instructions in the Udacity Classroom.
+<!-- Add a demo for your project -->
+
+<!-- After you have written about your project, it is a good idea to have a demo/preview(**video/gif/screenshots** are good options) of your project so that people can know what to expect in your project. You could also add the demo in the previous section with the product description.
+Here is a random GIF as a placeholder.
+ -->
+[Demo](https://media0.giphy.com/media/0KSrf4fLE70IiUNvGZ/giphy.gif)
+
