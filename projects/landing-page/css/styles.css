@@ -10,9 +10,7 @@
 
 
 /* ---- Base Rules ---- */
-html {
-    scroll-behavior: smooth;
-}
+
 
 body {
     background: rgb(136, 203, 171);
@@ -28,6 +26,7 @@ h1 {
     font-family: 'Fira Sans', sans-serif;
     font-size: 3em;
     margin: 2.5em 1rem;
+
 }
 
 @media only screen and (min-width: 35em) {
@@ -103,6 +102,12 @@ section {
     font-weight: bold;
     text-decoration: none;
     color: #000;
+}.navbar__menu .menu__link.active {
+    display: block;
+    padding: 1em;
+    font-weight: bold;
+    text-decoration: none;
+    color: #cc1;
 }
 
 .navbar__menu .menu__link:hover {
@@ -139,10 +144,25 @@ section {
     text-align: left;
 }
 
+@media  {
+
+}
+
 @media only screen and (min-width: 35em) {
     .landing__container {
         max-width: 50em;
         padding: 4em;
+    }
+}
+
+@media (max-width: 35em ) {
+
+    .navbar__menu ul {
+        text-align: center;
+    }
+
+    .navbar__menu li {
+        display: block;
     }
 }
 
