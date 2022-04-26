@@ -1,6 +1,6 @@
 <!-- Add banner here -->
 
-# Landing Page
+# Landing Page Project
 
 <!-- Add buttons here -->
 
@@ -17,3 +17,16 @@ Here is a random GIF as a placeholder.
  -->
 [Demo](https://media0.giphy.com/media/0KSrf4fLE70IiUNvGZ/giphy.gif)
 
+
+
+# Project description
+This is a multi-section landing page, with a dynamically updating navigational menu based on the amount of content that is added to the page 
+developed using HTML, CSS, and JavaScript.
+
+# Usage
+ Open index.html file in your browser.
+
+<!-- This is optional and it is used to give the user info on how to use the project after installation. This could be added in the Installation section also. -->
+
+# Credits
+Zeyad Alaa Eldin Mohamed

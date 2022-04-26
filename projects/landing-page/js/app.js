@@ -104,5 +104,5 @@ document.addEventListener("scroll", function () {
 function scrollTo(evt) {
     evt.preventDefault();
     let el = document.querySelector(evt.target.getAttribute('href'));
-    el.scrollIntoView({behavior: "smooth", block: "end", inline: "nearest"});
+    el.scrollIntoView({behavior: "smooth", block: "start", inline: "nearest"});
 }

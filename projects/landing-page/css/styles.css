@@ -110,11 +110,14 @@ section {
     color: #cc1;
 }
 
-.navbar__menu .menu__link:hover {
-    background: #333;
-    color: #fff;
-    transition: ease 0.3s;
+@media screen and (min-width: 800px) {
+    .navbar__menu .menu__link:hover {
+        background: #333;
+        color: #fff;
+        transition: ease 0.3s;
+    }
 }
+
 
 /* Header Styles */
 .page__header {
@@ -144,9 +147,6 @@ section {
     text-align: left;
 }
 
-@media  {
-
-}
 
 @media only screen and (min-width: 35em) {
     .landing__container {
